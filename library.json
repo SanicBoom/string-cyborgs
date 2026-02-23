@@ -228,5 +228,325 @@
     "singlecycle_gb2": "blackheart/singlecycle_Gb2.wav",
     "singlecycle_gb3": "blackheart/singlecycle_Gb3.wav",
     "singlecycle_gb4": "blackheart/singlecycle_Gb4.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A0",
+      "sample": "a0_dist",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C1",
+      "sample": "c1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#1",
+      "sample": "eb1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "gb1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A1",
+      "sample": "a1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#1",
+      "sample": "bb1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B1",
+      "sample": "b1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "c2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#2",
+      "sample": "db2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "d2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#2",
+      "sample": "eb2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E2",
+      "sample": "e2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F2",
+      "sample": "f2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#2",
+      "sample": "gb2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G2",
+      "sample": "g2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#2",
+      "sample": "ab2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A2",
+      "sample": "a2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "bb2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B2",
+      "sample": "b2",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "c3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#3",
+      "sample": "db3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "d3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#3",
+      "sample": "eb3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "e3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F3",
+      "sample": "f3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "gb3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G3",
+      "sample": "g3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "ab3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "a3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "bb3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B3",
+      "sample": "b3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "c4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#4",
+      "sample": "db4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "d4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#4",
+      "sample": "eb4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "e4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F4",
+      "sample": "f4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "gb4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G4",
+      "sample": "g4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "ab4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "a4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "bb4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B4",
+      "sample": "b4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "c5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#5",
+      "sample": "db5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "d5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#5",
+      "sample": "eb5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "e5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F5",
+      "sample": "f5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "gb5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G5",
+      "sample": "g5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#5",
+      "sample": "ab5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A5",
+      "sample": "a5",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
